@@ -1,0 +1,42 @@
+Create a wedding donations tracking web application with the following specifications:
+
+1. Single HTML file with embedded CSS and JavaScript
+2. Design Requirements:
+   - Gradient animated background
+   - Two screens: Welcome screen and Main screen
+   - Responsive design for mobile devices
+   - Animations using animate.css library
+   - Font Awesome icons integration
+   - Poppins font family
+
+3. Welcome Screen Features:
+   - Title "Lady weds Pramod"
+   - Subtitle "Donations (చదివింపులు)" in English and Telugu
+   - Login form with username input
+   - Static watermark "Made by Pramod Beema" that fades out only during login transition
+   - Bilingual instructions in English and Telugu
+
+4. Main Screen Features:
+   - Data entry form with fields: Name, Amount, Mobile Number
+   - Table displaying entries with columns: S.No., Name, Amount, Mobile, Added by, WhatsApp
+   - WhatsApp integration button for each entry with click counter
+   - Total amount display
+   - Export to CSV functionality with total in cell C1
+   - Clear table functionality with double press safety
+   - Logout button
+
+5. Technical Requirements:
+   - Local storage for data persistence
+   - Form validation for mobile numbers
+   - Duplicate entry detection
+   - Responsive table with fixed column widths
+   - Enter key navigation between form fields
+   - Mobile-friendly touch interactions
+   - Blur effect for cards using backdrop-filter
+
+6. Security Features:
+   - Session management using localStorage
+   - Clear data confirmation dialogs
+   - Input sanitization
+
+Please provide the complete HTML file with all necessary CSS and JavaScript code embedded.
