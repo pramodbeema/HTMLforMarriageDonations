@@ -63,4 +63,4 @@ Other themes are available for exploration but may not be as polished or feature
 
 ---
 
-This tool is perfect for managing contributions during events while adding a personal touch with WhatsApp messages. For feedback or customization requests, contact **Beema's Fincon**. 😊
+This tool is perfect for managing contributions during events while adding a personal touch with WhatsApp messages. For feedback or customization requests, contact **Pramod Beema**. 😊
